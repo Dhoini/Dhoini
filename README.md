@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate backend developer specialising in Go and PostgreSQL. With a strong foundation in microservices architecture, I enjoy building scalable and efficient systems.<br><br>I am currently deepening my expertise in PostgreSQL, dedicating 4-5 hours a day to mastering database design, optimisation and performance tuning. My goal is to grow from a Go Senior developer to a software engineer, focusing on building robust backend solutions.<br><br>I've developed pet projects like a URL shortener and a to-do list in Go, and I'm now working with a team on a microservices-based chat application.<br><br>Outside of coding, I'm always up for extreme adventures and enjoy exploring the world while constantly learning and improving my skills.
+I am a passionate backend developer specialising in Go . With a strong foundation in microservices architecture, I enjoy building scalable and efficient systems.<br><br>. My goal is to grow from a Go Senior developer to a software engineer, focusing on building robust backend solutions.<br><br>I've developed pet projects like a URL shortener and a to-do list in Go, and I'm now working with a team on a microservices-based chat application.<br><br>Outside of coding, I'm always up for extreme adventures and enjoy exploring the world while constantly learning and improving my skills.
 
 
 ## 🌐 Socials:
